@@ -4,3 +4,5 @@ def f1():
 def f2():
     print('bansal')
 
+def f3():
+    print('qqqqqqqqqqqqqqqqqqqqqq')
